@@ -1,35 +1,151 @@
-<h1 align="center">Hi 👋, I'm Mohit Karma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Mohit Karma!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitkarma01&label=Profile%20views&color=0e75b6&style=flat" alt="mohitkarma01" /> </p>
+<h3 align="center">💻 Full Stack Python Developer | Web Development Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitkarma01" alt="mohitkarma01" /></a> </p>
-
-- 🔭 I’m currently working on [Smart Plot Planner](https://github.com/Mohitkarma01/Smart_Plot_Planner)
-
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on [Ecommerce Website](https://github.com/Mohitkarma01/Ecommerce-Website)
-
-- 🤝 I’m looking for help with [Ecommerce Website](https://github.com/Mohitkarma01/Ecommerce-Website)
-
-- 💬 Ask me about **Full Stack Python Dev**
-
-- 📫 How to reach me **mohitkarma28551@gmail.com**
-
-- ⚡ Fun fact **I believe every problem has a solution, sometimes it just needs a little coding!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohit karma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit karma" height="30" width="40" /></a>
-<a href="https://instagram.com/__m_v__9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__m_v__9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Python+Developer;Building+Web+Applications;Learning+and+Growing+Every+Day!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohitkarma01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mohitkarma01?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Mohitkarma01?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitkarma01&show_icons=true&locale=en&layout=compact" alt="mohitkarma01" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitkarma01&show_icons=true&locale=en" alt="mohitkarma01" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkarma01&" alt="mohitkarma01" /></p>
+- 🎓 I'm an Information Technology student and aspiring software developer.
+- 💻 Passionate about **Full Stack Python Development**.
+- 🔭 Currently working on **[Smart Plot Planner](https://github.com/Mohitkarma01/Smart_Plot_Planner)**.
+- 🌱 Currently learning **Django and Backend Development**.
+- 🛒 Building real-world web applications and projects.
+- 🤝 Interested in collaborating on exciting development projects.
+- 💬 Ask me about **Python, Django, HTML, CSS, JavaScript and Web Development**.
+- 📫 Reach me at: **mohitkarma28551@gmail.com**
+- ⚡ Fun fact: *I believe every problem has a solution, sometimes it just needs a little coding!*
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,sqlite,git,github,vscode,c,cpp&perline=6" alt="My Tech Stack" />
+  </a>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏡 Smart Plot Planner</h3>
+      <div align="center">
+        <a href="https://github.com/Mohitkarma01/Smart_Plot_Planner">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitkarma01&repo=Smart_Plot_Planner&theme=tokyonight&hide_border=true" alt="Smart Plot Planner" />
+        </a>
+        <p>AI-inspired house layout planning project designed to generate smart house plans based on plot dimensions and room requirements.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 BigBasket E-Commerce</h3>
+      <div align="center">
+        <a href="https://github.com/Mohitkarma01/Ecommerce-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitkarma01&repo=Ecommerce-Website&theme=tokyonight&hide_border=true" alt="Ecommerce Website" />
+        </a>
+        <p>A Django-based online grocery shopping application with product browsing, cart management and order functionality.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐍 Snake, Water and Gun</h3>
+      <div align="center">
+        <a href="https://github.com/Mohitkarma01/Project1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitkarma01&repo=Project1&theme=tokyonight&hide_border=true" alt="Python Game" />
+        </a>
+        <p>A simple interactive Python game implementing basic programming logic.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 The Perfect Guess</h3>
+      <div align="center">
+        <a href="https://github.com/Mohitkarma01/Project2-THE-PERFECT-GUESS-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitkarma01&repo=Project2-THE-PERFECT-GUESS-&theme=tokyonight&hide_border=true" alt="Perfect Guess" />
+        </a>
+        <p>A Python number guessing game built to practice programming fundamentals and logical thinking.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Mohitkarma01?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohitkarma01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkarma01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohitkarma01&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=181717" alt="Public Repository Count" />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkarma01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/Mohitkarma01">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitkarma01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohitkarma01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:mohitkarma28551@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/__m_v__9">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Mohitkarma01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  ### 💙 Thanks for visiting my profile!
+  <br/>
+  <b>Keep Learning | Keep Building | Keep Growing 🚀</b>
+</p>
